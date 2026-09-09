@@ -11,7 +11,8 @@ Open `index.html` directly, or serve the folder with any static HTTP server.
 ## Current scope
 
 - Minimal landing page
-- Pilot roster / dossier placeholder treatment
+- Transmission video section
+- Responsive briefing and status presentation
 - Development-status section
 - Responsive static HTML/CSS/JS
 
